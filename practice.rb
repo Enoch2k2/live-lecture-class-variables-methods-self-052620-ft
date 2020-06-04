@@ -47,4 +47,3 @@ game_1 = Entertainment.create("Munchkin", "Game")
 game_1 = Entertainment.create("Catan", "Game")
 game_1 = Entertainment.create("Risk", "Game")
 
-binding.pry
